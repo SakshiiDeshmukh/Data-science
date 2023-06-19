@@ -1,0 +1,38 @@
+What is Hypothesis Testing?
+Any data science project starts with exploring the data. When we perform an analysis on a sample through 
+exploratory data analysis and inferential statistics we get information about the sample. 
+Now, we want to use this information to predict values for the entire population
+
+Z-statistic – Z Test :
+Z-statistic is used when the sample follows a normal distribution. It is calculated based on the population parameters like mean and standard deviation.
+One sample Z test is used when we want to compare a sample mean with a population mean
+
+( Two sample Z test is used when we want to compare the mean of two samples )
+
+T-statistic – T-Test :
+T-statistic is used when the sample follows a T distribution and population parameters are unknown. 
+T distribution is similar to a normal distribution, it is shorter than normal distribution and has a flatter tail.
+
+If the sample size is less than 30 and population parameters are not known, 
+we use T distribution. Here also, we can use one Sample T-test and a two-sample T-test.
+
+
+F-statistic – F test
+For samples involving three or more groups, we prefer the F Test. Performing T-test on 
+multiple groups increases the chances of Type-1 error. ANOVA is used in such cases.
+Analysis of variance (ANOVA) can determine whether the means of three or more groups are different. 
+ANOVA uses F-tests to statistically test the equality of means.
+
+F-statistic is used when the data is positively skewed and follows an F distribution. 
+F distributions are always positive and skewed right.
+
+
+Chi-Square Test 
+ 
+
+For categorical variables, we would be performing a chi-Square test.
+
+Following are the two types of chi-squared tests:
+Chi-squared test of independence – We use the Chi-Square test to determine whether or not there is a significant 
+relationship between two categorical variables.
+Chi-squared Goodness of fit helps us determine if the sample data correctly represents the population.
