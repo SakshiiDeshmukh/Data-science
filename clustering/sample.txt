@@ -1,0 +1,3 @@
+A way of grouping the data points into different clusters, consisting of similar data points. 
+The objects with the possible similarities remain in a group that has less or no similarities with another group
+Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime and airline data and identify the number of clusters formed and draw inferences.
