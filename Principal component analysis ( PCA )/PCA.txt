@@ -1,0 +1,9 @@
+Principal component analysis (PCA) is a popular technique for analyzing large datasets containing 
+a high number of dimensions/features per observation, increasing the interpretability of data while preserving
+the maximum amount of information, and enabling the visualization of multidimensional data.
+
+
+Perform Principal component analysis and perform clustering using first 3 principal component scores
+(Using both heirarchial and k mean clustering
+(scree plot or elbow curve) Obtain optimum number of clusters and check whether we have obtained same number of clusters 
+with the original data (class column we have ignored at the begining which shows that it has 3 clusters)
