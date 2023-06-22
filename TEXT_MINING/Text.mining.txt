@@ -1,0 +1,6 @@
+Text mining, also known as text analytics or natural language processing (NLP), 
+is a field of study that focuses on extracting useful information and insights from unstructured textual data.
+It involves applying various techniques and methods to analyze and interpret text data, uncover patterns, discover relationships, and gain valuable knowledge from the text.
+Text mining has applications in various domains, including social media analysis, customer feedback analysis, market research, 
+information retrieval, and many more. It enables businesses and researchers to derive valuable insights
+from large volumes of textual data, making it a powerful tool for understanding and extracting knowledge from text.
